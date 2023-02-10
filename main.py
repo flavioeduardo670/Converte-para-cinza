@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # Encontra o caminho da imagem
-filename = r"data\imagem.jpg"
+filename = r"imagem.jpg"
 
 # Abre a imagem e guarda na variável "IMAGEM", e depois salva na variável "matriz"
 # um vetor tridimensional as informações de cada pixel da imagem
